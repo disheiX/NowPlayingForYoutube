@@ -1,0 +1,9 @@
+QMainWindow {
+    background-color: rgb(15, 15, 15)
+}
+
+QLabel {
+    color: white;
+    font-family: Montserrat;
+    font-size: 30px;
+}
