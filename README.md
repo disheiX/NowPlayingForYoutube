@@ -6,5 +6,5 @@ Note that this is an experimental app, its old, quite buggy and not meant for no
 There won't be any releases until I come back to this project, so for now you can:
 
 1. Run `listener.py`. It will print the windows handle & process id of your opened windows in a tuple.
-2. Copy both your windows handle and PID, then paste them in `main.py` inside the class Worker (you should paste them into this 2 variables: handle and pid).
+2. Copy both your Windows Handle and PID, then paste them in `main.py` inside the class Worker (you should paste them into this 2 variables: handle and pid).
 3. Run `main.py`
