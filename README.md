@@ -1,4 +1,4 @@
-# Experimental Now Playing App for Youtube Songs
+# Experimental Now Playing App for YouTube Songs
 A PyQt5 app that displays the song you are playing on youtube. Useful for OBS Now Playing in YouTube instead of Spotify.
 
 ## How to use it
