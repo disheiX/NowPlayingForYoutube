@@ -2,7 +2,7 @@
 A PyQt5 app that displays the song you are playing on youtube. Useful for OBS Now Playing in YouTube instead of Spotify.
 
 ## How to use it
-Note that this is an experimental app, its quite buggy and not meant for normal use.
+Note that this is an experimental app, its old, quite buggy and not meant for normal use.
 There won't be any releases until I come back to this project, so for now you can:
 
 1. Run `listener.py`. It will print the windows handle & process id of your opened windows in a tuple.
